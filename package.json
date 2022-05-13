@@ -38,7 +38,7 @@
     "typescript": "^4.6.2"
   },
   "dependencies": {
-    "tslib": "^2.3.1"
+    "tslib": "^2.4.0"
   },
   "release": {
     "analyzeCommits": "simple-commit-message"
